@@ -1,0 +1,4 @@
+---
+default: -p terminal_pretty -p report_html
+terminal_pretty: --format pretty
+report_html: --format html --out=features/reports/report.html
